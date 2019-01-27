@@ -18,7 +18,7 @@ This repo is here for the pupose of learning and practicing git.
 
 ## Participants
 
-Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore)
+Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore
 
 Arpit Kumar Mishra - [armish24](https://github.com/armish24)
 
